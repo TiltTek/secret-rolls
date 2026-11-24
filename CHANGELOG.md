@@ -4,6 +4,12 @@ All notable changes to `tilttek/secret-rolls` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## 0.2.3-alpha - 2026-11-24
+
+### Changed
+
+- `tilttek/dice` 0.3 required: 0.2 is no longer accepted.
+
 ## 0.2.2-alpha - 2026-11-20
 
 ### Changed
